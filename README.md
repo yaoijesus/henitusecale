@@ -11,12 +11,7 @@
 <div id="header" align="center">
 
 
-wip
-</p>
-wip
-</p>
-
-wip
+[<img src="https://files.catbox.moe/5f1gkv.png" />](https://rentry.co/fries) 　 [<img src="https://files.catbox.moe/bisml3.png" />](https://rentry.co/naiad) 　 [<img src="https://files.catbox.moe/zu6b2y.png" />](https://yoojoonghyuk.atabook.org/)
 </p>
 
 <p align="center"
